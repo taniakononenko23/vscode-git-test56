@@ -26,6 +26,7 @@ form {
 }
 .form-input {
   margin-bottom: 8px;
+  display: block;
 }
 
 .form-input {
